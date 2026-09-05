@@ -1,0 +1,30 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dependabot/github_actions/docker/build-push-action-7",
+    "dev",
+    "fix/issue-1168-w10-b-013-allocation-service-throws-generic",
+    "local",
+    "main",
+    "origin",
+    "revert-58-fix/issue-27-savings-idor"
+  ],
+  "parent": {
+    "dependabot/github_actions/docker/build-push-action-7": "dev",
+    "dev": null,
+    "fix/issue-1168-w10-b-013-allocation-service-throws-generic": "dev",
+    "local": "dev",
+    "main": "dev",
+    "origin": "dev",
+    "revert-58-fix/issue-27-savings-idor": "dev"
+  },
+  "order": [
+    "dev",
+    "dependabot/github_actions/docker/build-push-action-7",
+    "fix/issue-1168-w10-b-013-allocation-service-throws-generic",
+    "local",
+    "main",
+    "origin",
+    "revert-58-fix/issue-27-savings-idor"
+  ]
+}
